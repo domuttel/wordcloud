@@ -1,0 +1,7 @@
+body {
+background: url(http://i.space.com/images/i/000/043/580/wS4/beta-pictoris-blue-1600.jpg?1415681313) no-repeat center center fixed;
+background-size: 100% 100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+}
